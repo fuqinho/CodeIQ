@@ -1,0 +1,5 @@
+How to run:
+  g++ main.cpp && ./a.out < blendlist.txt
+
+Algorithm
+  using Stoer-Wagner's algorithm to find minimum-cut
